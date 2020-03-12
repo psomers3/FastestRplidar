@@ -1,1 +1,1 @@
-from .source.fastestrplidar import FastestRplidar
+from .fastestrplidar.fastestrplidar import FastestRplidar
